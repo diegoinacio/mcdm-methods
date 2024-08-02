@@ -4,17 +4,18 @@ _Multi-Criteria Decision-Making_ (**MCDM**), also known as _Multi-Criteria Decis
 
 ## Methods
 
-|     acronym | name                                                                                       | notebook           |
-| ----------: | :----------------------------------------------------------------------------------------- | :----------------- |
-|     **AHP** | _**A**nalytic **H**ierarchy **P**rocess_                                                   | [ahp.ipynb][ahp]   |
-|       _ANP_ | _**A**nalytic **N**etwork **P**rocess_                                                     | anp.ipynb          |
-|       _BWM_ | _**B**est **W**orst **M**ethod_                                                            | bwm.ipynb          |
-|   _ELECTRE_ | _**Él**imination **E**t **C**hoix **T**raduisant la **Re**alité_                           | electre.ipynb      |
-| _PROMETHEE_ | _**P**reference **R**anking **O**rganization **Meth**od for **E**nrichment **E**valuation_ | promethee.ipynb    |
-|     **ROC** | _**R**ank **O**rder **C**entroid_                                                          | [roc.ipynb][roc]   |
-|    **ROCA** | _**R**ank **O**rder **C**lustering **A**lgorithm_                                          | [roca.ipynb][roca] |
-|    _TOPSIS_ | _**T**echnique for **O**rder **P**reference by **S**imilarity to **I**deal **S**olution_   | topsis.ipynb       |
+|       acronym | name                                                                                       | notebook                     |
+| ------------: | :----------------------------------------------------------------------------------------- | :--------------------------- |
+|       **AHP** | _**A**nalytic **H**ierarchy **P**rocess_                                                   | [ahp.ipynb][ahp]             |
+|         _ANP_ | _**A**nalytic **N**etwork **P**rocess_                                                     | anp.ipynb                    |
+|         _BWM_ | _**B**est **W**orst **M**ethod_                                                            | bwm.ipynb                    |
+|     _ELECTRE_ | _**Él**imination **E**t **C**hoix **T**raduisant la **Re**alité_                           | electre.ipynb                |
+| **PROMETHEE** | _**P**reference **R**anking **O**rganization **Meth**od for **E**nrichment **E**valuation_ | [promethee.ipynb][promethee] |
+|       **ROC** | _**R**ank **O**rder **C**entroid_                                                          | [roc.ipynb][roc]             |
+|      **ROCA** | _**R**ank **O**rder **C**lustering **A**lgorithm_                                          | [roca.ipynb][roca]           |
+|      _TOPSIS_ | _**T**echnique for **O**rder **P**reference by **S**imilarity to **I**deal **S**olution_   | topsis.ipynb                 |
 
 [ahp]: ahp.ipynb "View the AHP method notebook"
+[promethee]: promethee.ipynb "View the PROMETHEE method notebook"
 [roc]: roc.ipynb "View the ROC method notebook"
 [roca]: roca.ipynb "View the ROCA method notebook"
