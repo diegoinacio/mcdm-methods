@@ -13,9 +13,10 @@ _Multi-Criteria Decision-Making_ (**MCDM**), also known as _Multi-Criteria Decis
 | **PROMETHEE** | _**P**reference **R**anking **O**rganization **Meth**od for **E**nrichment **E**valuation_ | [promethee.ipynb][promethee] |
 |       **ROC** | _**R**ank **O**rder **C**entroid_                                                          | [roc.ipynb][roc]             |
 |      **ROCA** | _**R**ank **O**rder **C**lustering **A**lgorithm_                                          | [roca.ipynb][roca]           |
-|      _TOPSIS_ | _**T**echnique for **O**rder **P**reference by **S**imilarity to **I**deal **S**olution_   | topsis.ipynb                 |
+|    **TOPSIS** | _**T**echnique for **O**rder **P**reference by **S**imilarity to **I**deal **S**olution_   | [topsis.ipynb][topsis]       |
 
 [ahp]: ahp.ipynb "View the AHP method notebook"
 [promethee]: promethee.ipynb "View the PROMETHEE method notebook"
 [roc]: roc.ipynb "View the ROC method notebook"
 [roca]: roca.ipynb "View the ROCA method notebook"
+[topsis]: topsis.ipynb "View the TOPSIS method notebook"
